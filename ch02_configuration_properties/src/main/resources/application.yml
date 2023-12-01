@@ -1,0 +1,13 @@
+
+app:
+  sbip:
+    ct:
+      name: CourseTracker
+      ip: 127.0.0.1
+      port: 9090
+      security:
+        enabled: true
+        token: 1234567890
+        roles:
+          - USER
+          - ADMIN
