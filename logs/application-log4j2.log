@@ -1,0 +1,18 @@
+2023-12-01 13:21:20.798 [ INFO] [  restartedMain] i.s.c.Ch02Log4j2ApplicationKt            : Starting Ch02Log4j2ApplicationKt using Java 17.0.5 with PID 13999 (/Users/jason/Documents/study/spring-boot-in-practice/ch02_log4j2/build/classes/kotlin/main started by jason in /Users/jason/Documents/study/spring-boot-in-practice)
+2023-12-01 13:21:20.801 [ INFO] [  restartedMain] i.s.c.Ch02Log4j2ApplicationKt            : No active profile set, falling back to 1 default profile: "default"
+2023-12-01 13:21:21.253 [ INFO] [  restartedMain] o.a.c.h.Http11NioProtocol                : Initializing ProtocolHandler ["http-nio-8080"]
+2023-12-01 13:21:21.255 [ INFO] [  restartedMain] o.a.c.c.StandardService                  : Starting service [Tomcat]
+2023-12-01 13:21:21.256 [ INFO] [  restartedMain] o.a.c.c.StandardEngine                   : Starting Servlet engine: [Apache Tomcat/10.1.16]
+2023-12-01 13:21:21.292 [ INFO] [  restartedMain] o.a.c.c.C.[.[.[/]                        : Initializing Spring embedded WebApplicationContext
+2023-12-01 13:21:21.464 [ INFO] [  restartedMain] o.a.c.h.Http11NioProtocol                : Starting ProtocolHandler ["http-nio-8080"]
+2023-12-01 13:21:21.477 [ INFO] [  restartedMain] i.s.c.Ch02Log4j2ApplicationKt            : Started Ch02Log4j2ApplicationKt in 0.819 seconds (process running for 1.157)
+2023-12-01 13:21:21.478 [ INFO] [  restartedMain] i.s.c.Ch02Log4j2Application              : CourceTrackerApplication started succesfully with Log4j2
+2023-12-01 13:24:12.611 [ INFO] [  restartedMain] i.s.c.Ch02Log4j2ApplicationKt            : Starting Ch02Log4j2ApplicationKt using Java 17.0.5 with PID 14043 (/Users/jason/Documents/study/spring-boot-in-practice/ch02_log4j2/build/classes/kotlin/main started by jason in /Users/jason/Documents/study/spring-boot-in-practice)
+2023-12-01 13:24:12.614 [ INFO] [  restartedMain] i.s.c.Ch02Log4j2ApplicationKt            : No active profile set, falling back to 1 default profile: "default"
+2023-12-01 13:24:12.999 [ INFO] [  restartedMain] o.a.c.h.Http11NioProtocol                : Initializing ProtocolHandler ["http-nio-8080"]
+2023-12-01 13:24:13.000 [ INFO] [  restartedMain] o.a.c.c.StandardService                  : Starting service [Tomcat]
+2023-12-01 13:24:13.000 [ INFO] [  restartedMain] o.a.c.c.StandardEngine                   : Starting Servlet engine: [Apache Tomcat/10.1.16]
+2023-12-01 13:24:13.015 [ INFO] [  restartedMain] o.a.c.c.C.[.[.[/]                        : Initializing Spring embedded WebApplicationContext
+2023-12-01 13:24:13.172 [ INFO] [  restartedMain] o.a.c.h.Http11NioProtocol                : Starting ProtocolHandler ["http-nio-8080"]
+2023-12-01 13:24:13.187 [ INFO] [  restartedMain] i.s.c.Ch02Log4j2ApplicationKt            : Started Ch02Log4j2ApplicationKt in 0.696 seconds (process running for 1.024)
+2023-12-01 13:24:13.188 [ INFO] [  restartedMain] i.s.c.Ch02Log4j2Application              : CourceTrackerApplication started succesfully with Log4j2
