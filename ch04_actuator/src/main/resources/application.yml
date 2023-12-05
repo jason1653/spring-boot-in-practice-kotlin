@@ -1,0 +1,21 @@
+#
+#management:
+#  endpoint:
+#    health:
+#      show-details: always
+
+
+#management:
+#  endpoint:
+#    health:
+#      status:
+#        order: FATAL,DOWN,OUT_OF_SERVICE,UNKNOWN,UP
+
+
+management:
+  endpoint:
+    health:
+      status:
+        http-mapping:
+          down: 500
+          out_of_service: 503
