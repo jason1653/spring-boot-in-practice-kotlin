@@ -21,3 +21,20 @@ management:
       properties:
         java:
           version: "@java.version@"
+
+
+spring:
+  sql:
+    init:
+      mode: embedded
+  datasource:
+    url: jdbc:h2:mem:testdb
+    username: sa
+    password: jason1653
+    driver-class-name: org.h2.Driver
+  jpa:
+    hibernate:
+      ddl-auto: none
+  h2:
+    console:
+      enabled: true
