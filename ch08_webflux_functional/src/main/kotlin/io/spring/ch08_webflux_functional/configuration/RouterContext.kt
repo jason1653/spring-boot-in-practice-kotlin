@@ -19,7 +19,5 @@ class RouterContext {
             .DELETE("/courses/{id}", courseHandler::deleteCourse)
             .DELETE("/courses", courseHandler::deleteAllCourses)
             .build()
-
     }
-
 }
