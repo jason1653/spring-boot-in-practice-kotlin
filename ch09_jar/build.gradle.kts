@@ -6,7 +6,7 @@ plugins {
     kotlin("jvm") version "1.9.21"
     kotlin("plugin.spring") version "1.9.21"
 
-    war
+//    war
 }
 
 group = "io.spring"
@@ -32,7 +32,7 @@ dependencies {
     runtimeOnly("com.h2database:h2")
     testImplementation("org.springframework.boot:spring-boot-starter-test")
 
-    providedRuntime("org.springframework.boot:spring-boot-starter-tomcat")
+//    providedRuntime("org.springframework.boot:spring-boot-starter-tomcat")
 }
 
 tasks.withType<KotlinCompile> {
@@ -45,12 +45,12 @@ tasks.withType<KotlinCompile> {
 tasks.withType<Test> {
     useJUnitPlatform()
 }
-
-
-springBoot {
-    buildInfo()
-}
-
-war {
-
-}
+//
+//
+//springBoot {
+//    buildInfo()
+//}
+//
+//war {
+//
+//}
