@@ -37,3 +37,13 @@ out/
 .vscode/
 
 !**/**/data/
+/ch08_rsocket/gradle/wrapper/gradle-wrapper.jar
+/ch08_websocket/gradle/wrapper/gradle-wrapper.jar
+/ch08_rsocket/gradle/wrapper/gradle-wrapper.properties
+/ch08_websocket/gradle/wrapper/gradle-wrapper.properties
+/ch08_rsocket/gradlew
+/ch08_websocket/gradlew
+/ch08_rsocket/gradlew.bat
+/ch08_websocket/gradlew.bat
+/ch08_rsocket/gradle/wrapper/gradle-wrapper.jar
+/ch08_websocket/gradle/wrapper/gradle-wrapper.jar
