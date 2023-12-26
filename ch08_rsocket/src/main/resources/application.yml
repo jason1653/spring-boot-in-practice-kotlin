@@ -1,0 +1,9 @@
+
+spring:
+  rsocket:
+    server:
+      port: 9000
+      transport: tcp
+      address: localhost
+  main:
+    lazy-initialization: true #?? ??? ?? ??? ??
